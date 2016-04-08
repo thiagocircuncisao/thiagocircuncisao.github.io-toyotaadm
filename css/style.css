@@ -1,0 +1,42 @@
+.bg-primary {
+    background-color: #DB0B0B;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    color: #DB0B0B;
+}
+
+.bg-secondary{
+    background-color: #D96868;
+}
+
+.button-color{
+    
+}
+
+.text-color{
+    color: #1500FF;
+}
+
+.links-contact{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #337ab7; 
+    font-size: 20px;
+}
+
+.links-contact a{
+    text-decoration: none;
+    color: #337ab7;
+}
+
+.img-circle{
+    border-radius: 50%;
+    width: 50%;
+}
+
+@media all and (max-width: 480px){
+    .navbar-brand{
+        font-size: 16px;
+    }
+}
